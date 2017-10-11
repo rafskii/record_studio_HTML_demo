@@ -1,0 +1,136 @@
+body {
+    margin: 0px auto;
+    background-image: url("img/graphic_equaliser.jpg");
+    background-attachment: fixed;
+    font-family: "Ubuntu Mono";
+}
+
+header img {
+    display: block;
+    margin-left: 200px;
+    background: black;
+}
+
+.opis {
+    width: 1000px;
+    margin: 0px auto;
+    color: whitesmoke;
+    text-align: center;
+    font-family: "Ubuntu Mono";
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.opis p {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.navi {
+    color: whitesmoke;
+    font-size: 26px;
+    font-family: "Ubuntu Mono";
+    font-weight: bold;
+    text-align: center;
+}
+
+.navi ul {
+    display: inline-block;
+    list-style: none;
+    color: black;
+}
+
+.navi li {
+    display: inline-block;
+    margin: 5px 40px;
+    width: 280px;
+    background-color: rgba(245,245,245,0.8);
+    padding: 20px 15px;
+    border-radius: 30px;
+}
+
+.navi img {
+    border-radius: 30px;
+}
+
+.navi a {
+    text-decoration: none;
+    color: black;
+}
+
+.navi li:hover {
+    background-color: rgba(245,245,245,0.9);
+}
+
+#tresc {
+    color: whitesmoke;
+    font-family: "Ubuntu Mono";
+}
+
+.banner {
+    height: 80px;
+    background-color:rgba(0,0,0,0.7);
+}
+
+.sekcja {
+    margin: 5px;
+    padding: 10px;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 34px;
+    margin: 10px auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.opisy{
+    width: 1300px;
+    height: 400px;
+    margin: 5px auto;
+}
+
+.imgg {
+    width: 600px;
+    height: 400px;
+    display: inline-block;
+    background-color: rgba(245,245,245,0.8);
+    padding: 10px 10px;
+    border-radius: 5px;
+
+}
+
+.imgg img {
+    border-radius: 5px;
+}
+
+.oferta {
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    font-size: 28px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: rgba(0,0,0,0.8);
+    float: right;
+    border-radius: 5px;
+}
+
+footer {
+    display: block;
+    height: 25px;
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+
